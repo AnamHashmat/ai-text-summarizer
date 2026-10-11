@@ -8,7 +8,7 @@
 const CONFIG = {
   // Your deployed Cloudflare Worker URL (see README, step 5).
   // Example: "https://ai-summarizer.your-name.workers.dev/api/summarize"
-  PRODUCTION_API_URL: "https://YOUR-WORKER-NAME.YOUR-SUBDOMAIN.workers.dev/api/summarize",
+  PRODUCTION_API_URL: "https://ai-summarizer.anamhashmat77.workers.dev/api/summarize",
 
   // Used automatically when you run the local Python server (dev_server.py).
   LOCAL_API_URL: "/api/summarize",
